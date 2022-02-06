@@ -1,5 +1,5 @@
 # gsabados_grupo6_frontend_fisi
-AppBatery: Proyecto de curso Sistemas móviles 
+AppBatery: Proyecto de curso Desarrollo de Sistemas móviles 
 
 # batery_app
 
