@@ -12,7 +12,7 @@ import 'package:google_maps_flutter/google_maps_flutter.dart';
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
   Stripe.publishableKey =
-      "pk_test_51KM1DoGtgvgwfOEvlnheXvjkOuAWBXOAcpG2d2xIIFVU29SkXqyy103hrsttkZRMYTRiv1GY3GKOEctY1nFIvP1B00Z5Lf2gXe";
+      "apiKey";
   await Stripe.instance.applySettings();
   runApp(MyApp());
 }
