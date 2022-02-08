@@ -40,7 +40,7 @@ class _HomePageState extends State<LocationScreen> {
                     MaterialPageRoute(
                       builder: (context) {
                         return PlacePicker(
-                          apiKey: 'AIzaSyCYzhlcwGo8p7zTyHbWGwKaBQ3GdzD9fVY',
+                          apiKey: 'api',
                           initialPosition: LocationScreen.kInitialPosition,
                           useCurrentLocation: true,
                           selectInitialPosition: true,
